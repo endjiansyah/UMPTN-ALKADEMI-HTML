@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+.njobo{
+    margin: auto;
+    width: 700px;
+    background-color: azure;
+}
+
+.atas{
+    padding: 6px;
+    background-color: bisque;
+    text-align: center;
+}
+.gambar{
+    width:200px;
+    height:auto;
+}
+.isi{
+    padding: 1px;
+    font-size:25px;
+}
